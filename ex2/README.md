@@ -2,7 +2,7 @@
 
 Не совсем не совсем уверен, что я сделал именно то, что требовалось. Вот такая у меня получилась визуализация страниц памяти слипа (то что слип не принципиально, просто у него меньше страниц памяти и это смотрится лучше): 
 
-<img src="https://image-url.type" width="200" height="200"/>
+<img src="https://github.com/KushnerovMS/sys-labs/blob/main/ex2/sample.svg" width="1000" height="800"/>
 
 ## Kernel module
 
